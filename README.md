@@ -1,3 +1,5 @@
+![Screenshot 2025-01-18 200400](https://github.com/user-attachments/assets/08d447eb-d19a-4cc8-91f2-e0293484c09a)
+
 # Excel_sales-finance_analytics
 # Sales Report:
 
